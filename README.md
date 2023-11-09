@@ -46,24 +46,26 @@ Runs the Flask app on port 5000 and binds to all interfaces (0.0.0.0)
 
 ##### Error Handling:
 
-Error Handling in Output Folder Creation:
+###### Error Handling in Output Folder Creation:
 
 Encloses the output folder creation code within a try-except block
 Catches any OSError exceptions during folder creation
 Prints an error message containing the specific exception details
-Error Handling in Audio Processing:
+
+###### Error Handling in Audio Processing:
 
 Encloses the entire audio processing block within a try-except block
 Catches any exceptions that might occur during audio processing
 Prints an error message containing the specific exception details if an error occurs
-Error Handling in Flask Application:
+
+###### Error Handling in Flask Application:
 
 Encloses the entire Flask application code, including route handling and app execution, within a try-except block
 Catches any exceptions that might occur during Flask app operation
 Prints an error message containing the specific exception details if an error occurs
 Improved Response Handling:
 
-In the /process_audio route handler:
+###### In the /process_audio route handler:
 
 Checks for the presence of an audio file in the request
 If no file is found, returns a JSON response with an error message
