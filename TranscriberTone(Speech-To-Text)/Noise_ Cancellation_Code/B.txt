@@ -1,0 +1,26 @@
+speaker_0: thank you for calling big jims auto this is travis how can i help you today
+speaker_1: hello my name is violet king and i bought a car not too long ago and a light is coming on um a light on the dashboard and so i was wondering what i should do about that
+speaker_0: ok it may depend on what kind of light we're looking at here today ma'am could i get your first and lesson spell out for me so i can just get some information pulled up
+speaker_1: yes my name is violet the i o l e t my last name is king k i n g
+speaker_0: all
+speaker_1: about the car
+speaker_0: ok and what kind of car are we examining today
+speaker_1: it's it's a for fusion it's two thousand and seventeen
+speaker_0: seventeen for ok and for verification ma'am do you happen to know the purchase date of the car
+speaker_1: yes it was last tuesday august tenth
+speaker_0: tuesday the tenh okay and can you describe to me what kind of light we're looking at
+speaker_1: y yes it's uh i i think it's a an oil and oil light
+speaker_0: and oil light ok okay and uh just for clarity on my end ma'am am is this the first call you've made regarding this
+speaker_1: yes
+speaker_0: okay and h uh this might be kind of a silly question 'cause i you just got the car but sometimes they make me ask silly questions about how many miles has the car been driven since you bought it
+speaker_1: oh i'm not sure should i check
+speaker_0: ah no that's okay i'll just i'll just put in that we don't know at this time it's okay um okay so um under the warranty we offer um we the we don't handle in house oil changes um we basically when when someone buys a car from us the warranty we have it it covers some stuff like weather damage and h if the engine light comes on we take a look at that but the oil change is something that we just don't have ah here at the dealership that's a little bit outsourced out and they're pretty backed up right now because a lot of people have been staying in due to the recent pandemic and now everyone's just starting to get out and a whole bunch of places are just completely bogged down so we have a place that we typically outsourc to and they're they're pretty reasonable they're about i want to say somewhere between twenty five and thirty five dollars to do an oil change so it's really not that bad but they're a little bit backed up right now from what i've heard i would recommend giving them a call as soon as you can before they close
+speaker_1: ok what is their number
+speaker_0: give me a and let me just rustle through the desk here see if i can find their uh information uh okay okay yes all right with them
+speaker_1: one moment please sure okay
+speaker_0: all right their number is eight eight three three three two two two two
+speaker_1: ok and they can fix my car
+speaker_0: yah they should be able to handle the oil change i'm sorry that's not something that we cover under the warranty that uh we have um but they should be able to get you settled and uh sorted okay
+speaker_1: ok thank you
+speaker_0: no problem have a good one
+speaker_1: thank youy

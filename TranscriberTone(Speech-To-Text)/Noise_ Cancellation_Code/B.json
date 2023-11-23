@@ -1,0 +1,3616 @@
+{
+    "status": "success",
+    "session_id": "B",
+    "transcription": "thank you for calling big jims auto this is travis how can i help you today hello my name is violet king and i bought a car not too long ago and a light is coming on um a light on the dashboard and so i was wondering what i should do about that ok it may depend on what kind of light we're looking at here today ma'am could i get your first and lesson spell out for me so i can just get some information pulled up yes my name is violet the i o l e t my last name is king k i n g all about the car ok and what kind of car are we examining today it's it's a for fusion it's two thousand and seventeen seventeen for ok and for verification ma'am do you happen to know the purchase date of the car yes it was last tuesday august tenth tuesday the tenh okay and can you describe to me what kind of light we're looking at y yes it's uh i i think it's a an oil and oil light and oil light ok okay and uh just for clarity on my end ma'am am is this the first call you've made regarding this yes okay and h uh this might be kind of a silly question 'cause i you just got the car but sometimes they make me ask silly questions about how many miles has the car been driven since you bought it oh i'm not sure should i check ah no that's okay i'll just i'll just put in that we don't know at this time it's okay um okay so um under the warranty we offer um we the we don't handle in house oil changes um we basically when when someone buys a car from us the warranty we have it it covers some stuff like weather damage and h if the engine light comes on we take a look at that but the oil change is something that we just don't have ah here at the dealership that's a little bit outsourced out and they're pretty backed up right now because a lot of people have been staying in due to the recent pandemic and now everyone's just starting to get out and a whole bunch of places are just completely bogged down so we have a place that we typically outsourc to and they're they're pretty reasonable they're about i want to say somewhere between twenty five and thirty five dollars to do an oil change so it's really not that bad but they're a little bit backed up right now from what i've heard i would recommend giving them a call as soon as you can before they close ok what is their number give me a and let me just rustle through the desk here see if i can find their uh information uh okay okay yes all right with them one moment please sure okay all right their number is eight eight three three three two two two two ok and they can fix my car yah they should be able to handle the oil change i'm sorry that's not something that we cover under the warranty that uh we have um but they should be able to get you settled and uh sorted okay ok thank you no problem have a good one thank youy",
+    "speaker_count": 2,
+    "words": [
+        {
+            "word": "thank",
+            "start_time": 0.96,
+            "end_time": 1.16,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "you",
+            "start_time": 1.2,
+            "end_time": 1.24,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "for",
+            "start_time": 1.28,
+            "end_time": 1.32,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "calling",
+            "start_time": 1.44,
+            "end_time": 1.68,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "big",
+            "start_time": 1.72,
+            "end_time": 1.88,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "jims",
+            "start_time": 2.0,
+            "end_time": 2.32,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "auto",
+            "start_time": 2.32,
+            "end_time": 2.64,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "this",
+            "start_time": 2.96,
+            "end_time": 3.0,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "is",
+            "start_time": 3.24,
+            "end_time": 3.28,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "travis",
+            "start_time": 3.32,
+            "end_time": 3.8,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "how",
+            "start_time": 4.0,
+            "end_time": 4.16,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "can",
+            "start_time": 4.2,
+            "end_time": 4.36,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "i",
+            "start_time": 4.4,
+            "end_time": 4.44,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "help",
+            "start_time": 4.48,
+            "end_time": 4.64,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "you",
+            "start_time": 4.68,
+            "end_time": 4.72,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "today",
+            "start_time": 4.84,
+            "end_time": 5.12,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "hello",
+            "start_time": 6.2,
+            "end_time": 6.48,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "my",
+            "start_time": 6.72,
+            "end_time": 6.84,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "name",
+            "start_time": 6.88,
+            "end_time": 7.08,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "is",
+            "start_time": 7.12,
+            "end_time": 7.16,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "violet",
+            "start_time": 7.24,
+            "end_time": 7.56,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "king",
+            "start_time": 7.72,
+            "end_time": 7.88,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "and",
+            "start_time": 8.0,
+            "end_time": 8.04,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "i",
+            "start_time": 8.08,
+            "end_time": 8.12,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "bought",
+            "start_time": 8.32,
+            "end_time": 8.6,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "a",
+            "start_time": 8.64,
+            "end_time": 8.68,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "car",
+            "start_time": 8.72,
+            "end_time": 8.8,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "not",
+            "start_time": 8.92,
+            "end_time": 8.96,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "too",
+            "start_time": 9.12,
+            "end_time": 9.24,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "long",
+            "start_time": 9.32,
+            "end_time": 9.48,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "ago",
+            "start_time": 9.52,
+            "end_time": 9.76,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "and",
+            "start_time": 10.0,
+            "end_time": 10.04,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "a",
+            "start_time": 10.64,
+            "end_time": 10.68,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "light",
+            "start_time": 10.84,
+            "end_time": 11.0,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "is",
+            "start_time": 11.16,
+            "end_time": 11.2,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "coming",
+            "start_time": 11.28,
+            "end_time": 11.52,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "on",
+            "start_time": 11.56,
+            "end_time": 11.6,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "um",
+            "start_time": 12.36,
+            "end_time": 12.48,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "a",
+            "start_time": 12.72,
+            "end_time": 12.76,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "light",
+            "start_time": 12.92,
+            "end_time": 13.08,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "on",
+            "start_time": 13.44,
+            "end_time": 13.48,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "the",
+            "start_time": 13.72,
+            "end_time": 13.76,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "dashboard",
+            "start_time": 14.0,
+            "end_time": 14.52,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "and",
+            "start_time": 14.6,
+            "end_time": 14.64,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "so",
+            "start_time": 14.72,
+            "end_time": 14.76,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "i",
+            "start_time": 14.92,
+            "end_time": 14.96,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "was",
+            "start_time": 15.04,
+            "end_time": 15.08,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "wondering",
+            "start_time": 15.2,
+            "end_time": 15.52,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "what",
+            "start_time": 15.6,
+            "end_time": 15.64,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "i",
+            "start_time": 15.76,
+            "end_time": 15.8,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "should",
+            "start_time": 15.84,
+            "end_time": 16.08,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "do",
+            "start_time": 16.16,
+            "end_time": 16.2,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "about",
+            "start_time": 16.32,
+            "end_time": 16.56,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "that",
+            "start_time": 16.6,
+            "end_time": 16.64,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "ok",
+            "start_time": 17.8,
+            "end_time": 17.96,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "it",
+            "start_time": 18.24,
+            "end_time": 18.28,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "may",
+            "start_time": 18.4,
+            "end_time": 18.56,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "depend",
+            "start_time": 18.6,
+            "end_time": 18.84,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "on",
+            "start_time": 18.88,
+            "end_time": 18.92,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "what",
+            "start_time": 18.96,
+            "end_time": 19.0,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "kind",
+            "start_time": 19.12,
+            "end_time": 19.28,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "of",
+            "start_time": 19.28,
+            "end_time": 19.32,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "light",
+            "start_time": 19.36,
+            "end_time": 19.48,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "we're",
+            "start_time": 19.52,
+            "end_time": 19.64,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "looking",
+            "start_time": 19.72,
+            "end_time": 19.96,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "at",
+            "start_time": 20.0,
+            "end_time": 20.08,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "here",
+            "start_time": 20.12,
+            "end_time": 20.24,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "today",
+            "start_time": 20.28,
+            "end_time": 20.48,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "ma'am",
+            "start_time": 20.52,
+            "end_time": 20.76,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "could",
+            "start_time": 21.08,
+            "end_time": 21.32,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "i",
+            "start_time": 21.4,
+            "end_time": 21.44,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "get",
+            "start_time": 21.48,
+            "end_time": 21.64,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "your",
+            "start_time": 21.68,
+            "end_time": 21.8,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "first",
+            "start_time": 21.8,
+            "end_time": 22.0,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "and",
+            "start_time": 22.04,
+            "end_time": 22.08,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "lesson",
+            "start_time": 22.2,
+            "end_time": 22.48,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "spell",
+            "start_time": 22.56,
+            "end_time": 22.76,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "out",
+            "start_time": 22.84,
+            "end_time": 22.96,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "for",
+            "start_time": 23.0,
+            "end_time": 23.04,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "me",
+            "start_time": 23.12,
+            "end_time": 23.16,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "so",
+            "start_time": 23.24,
+            "end_time": 23.28,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "i",
+            "start_time": 23.36,
+            "end_time": 23.4,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "can",
+            "start_time": 23.4,
+            "end_time": 23.52,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "just",
+            "start_time": 23.6,
+            "end_time": 23.76,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "get",
+            "start_time": 23.76,
+            "end_time": 23.92,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "some",
+            "start_time": 23.96,
+            "end_time": 24.0,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "information",
+            "start_time": 24.08,
+            "end_time": 24.52,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "pulled",
+            "start_time": 24.56,
+            "end_time": 24.8,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "up",
+            "start_time": 24.92,
+            "end_time": 25.0,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "yes",
+            "start_time": 26.24,
+            "end_time": 26.4,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "my",
+            "start_time": 26.56,
+            "end_time": 26.68,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "name",
+            "start_time": 26.68,
+            "end_time": 26.92,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "is",
+            "start_time": 26.96,
+            "end_time": 27.0,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "violet",
+            "start_time": 27.2,
+            "end_time": 27.52,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "the",
+            "start_time": 28.2,
+            "end_time": 28.24,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "i",
+            "start_time": 29.04,
+            "end_time": 29.08,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "o",
+            "start_time": 29.52,
+            "end_time": 29.56,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "l",
+            "start_time": 30.0,
+            "end_time": 30.04,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "e",
+            "start_time": 30.2,
+            "end_time": 30.24,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "t",
+            "start_time": 30.44,
+            "end_time": 30.48,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "my",
+            "start_time": 31.56,
+            "end_time": 31.68,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "last",
+            "start_time": 31.76,
+            "end_time": 31.96,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "name",
+            "start_time": 32.04,
+            "end_time": 32.28,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "is",
+            "start_time": 32.32,
+            "end_time": 32.36,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "king",
+            "start_time": 32.52,
+            "end_time": 32.72,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "k",
+            "start_time": 33.04,
+            "end_time": 33.08,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "i",
+            "start_time": 33.4,
+            "end_time": 33.44,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "n",
+            "start_time": 33.84,
+            "end_time": 33.88,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "g",
+            "start_time": 34.04,
+            "end_time": 34.08,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "all",
+            "start_time": 37.44,
+            "end_time": 37.6,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "about",
+            "start_time": 37.84,
+            "end_time": 38.12,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "the",
+            "start_time": 38.16,
+            "end_time": 38.2,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "car",
+            "start_time": 38.2,
+            "end_time": 38.32,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "ok",
+            "start_time": 39.92,
+            "end_time": 40.08,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "and",
+            "start_time": 41.24,
+            "end_time": 41.28,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "what",
+            "start_time": 41.4,
+            "end_time": 41.44,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "kind",
+            "start_time": 41.68,
+            "end_time": 41.8,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "of",
+            "start_time": 41.84,
+            "end_time": 41.88,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "car",
+            "start_time": 41.92,
+            "end_time": 42.08,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "are",
+            "start_time": 42.16,
+            "end_time": 42.28,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "we",
+            "start_time": 42.32,
+            "end_time": 42.36,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "examining",
+            "start_time": 42.48,
+            "end_time": 42.92,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "today",
+            "start_time": 42.96,
+            "end_time": 43.24,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "it's",
+            "start_time": 44.88,
+            "end_time": 45.08,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "it's",
+            "start_time": 45.28,
+            "end_time": 45.44,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "a",
+            "start_time": 45.52,
+            "end_time": 45.56,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "for",
+            "start_time": 45.92,
+            "end_time": 45.96,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "fusion",
+            "start_time": 46.32,
+            "end_time": 46.72,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "it's",
+            "start_time": 48.32,
+            "end_time": 48.52,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "two",
+            "start_time": 49.2,
+            "end_time": 49.36,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "thousand",
+            "start_time": 49.4,
+            "end_time": 49.72,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "and",
+            "start_time": 49.76,
+            "end_time": 49.8,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "seventeen",
+            "start_time": 49.92,
+            "end_time": 50.32,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "seventeen",
+            "start_time": 51.84,
+            "end_time": 52.2,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "for",
+            "start_time": 52.28,
+            "end_time": 52.32,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "ok",
+            "start_time": 53.04,
+            "end_time": 53.2,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "and",
+            "start_time": 57.0,
+            "end_time": 57.04,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "for",
+            "start_time": 57.2,
+            "end_time": 57.24,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "verification",
+            "start_time": 57.48,
+            "end_time": 57.96,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "ma'am",
+            "start_time": 58.0,
+            "end_time": 58.24,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "do",
+            "start_time": 58.28,
+            "end_time": 58.32,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "you",
+            "start_time": 58.44,
+            "end_time": 58.48,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "happen",
+            "start_time": 58.56,
+            "end_time": 58.8,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "to",
+            "start_time": 58.88,
+            "end_time": 58.92,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "know",
+            "start_time": 59.0,
+            "end_time": 59.04,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "the",
+            "start_time": 59.32,
+            "end_time": 59.36,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "purchase",
+            "start_time": 59.52,
+            "end_time": 59.88,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "date",
+            "start_time": 60.0,
+            "end_time": 60.2,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "of",
+            "start_time": 60.24,
+            "end_time": 60.28,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "the",
+            "start_time": 60.36,
+            "end_time": 60.4,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "car",
+            "start_time": 60.48,
+            "end_time": 60.64,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "yes",
+            "start_time": 62.36,
+            "end_time": 62.52,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "it",
+            "start_time": 63.28,
+            "end_time": 63.32,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "was",
+            "start_time": 63.44,
+            "end_time": 63.48,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "last",
+            "start_time": 63.92,
+            "end_time": 64.16,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "tuesday",
+            "start_time": 64.36,
+            "end_time": 64.92,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "august",
+            "start_time": 65.84,
+            "end_time": 66.2,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "tenth",
+            "start_time": 66.68,
+            "end_time": 66.96,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "tuesday",
+            "start_time": 67.72,
+            "end_time": 68.24,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "the",
+            "start_time": 68.44,
+            "end_time": 68.48,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "tenh",
+            "start_time": 68.56,
+            "end_time": 68.84,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "okay",
+            "start_time": 73.32,
+            "end_time": 73.56,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "and",
+            "start_time": 73.64,
+            "end_time": 73.68,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "can",
+            "start_time": 73.76,
+            "end_time": 73.88,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "you",
+            "start_time": 73.96,
+            "end_time": 74.0,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "describe",
+            "start_time": 74.08,
+            "end_time": 74.44,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "to",
+            "start_time": 74.48,
+            "end_time": 74.52,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "me",
+            "start_time": 74.6,
+            "end_time": 74.64,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "what",
+            "start_time": 74.72,
+            "end_time": 74.76,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "kind",
+            "start_time": 74.92,
+            "end_time": 75.04,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "of",
+            "start_time": 75.08,
+            "end_time": 75.12,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "light",
+            "start_time": 75.2,
+            "end_time": 75.32,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "we're",
+            "start_time": 75.36,
+            "end_time": 75.52,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "looking",
+            "start_time": 75.6,
+            "end_time": 75.92,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "at",
+            "start_time": 75.92,
+            "end_time": 76.04,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "y",
+            "start_time": 78.0,
+            "end_time": 78.04,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "yes",
+            "start_time": 78.8,
+            "end_time": 78.96,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "it's",
+            "start_time": 79.08,
+            "end_time": 79.28,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "uh",
+            "start_time": 80.52,
+            "end_time": 80.64,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "i",
+            "start_time": 81.08,
+            "end_time": 81.12,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "i",
+            "start_time": 81.44,
+            "end_time": 81.48,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "think",
+            "start_time": 81.6,
+            "end_time": 81.76,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "it's",
+            "start_time": 81.84,
+            "end_time": 82.04,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "a",
+            "start_time": 83.36,
+            "end_time": 83.4,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "an",
+            "start_time": 84.2,
+            "end_time": 84.24,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "oil",
+            "start_time": 84.32,
+            "end_time": 84.6,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "and",
+            "start_time": 85.0,
+            "end_time": 85.04,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "oil",
+            "start_time": 85.24,
+            "end_time": 85.48,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "light",
+            "start_time": 85.64,
+            "end_time": 85.8,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "and",
+            "start_time": 87.08,
+            "end_time": 87.12,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "oil",
+            "start_time": 87.28,
+            "end_time": 87.56,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "light",
+            "start_time": 87.68,
+            "end_time": 87.88,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "ok",
+            "start_time": 88.28,
+            "end_time": 88.44,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "okay",
+            "start_time": 96.56,
+            "end_time": 96.84,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "and",
+            "start_time": 97.68,
+            "end_time": 97.72,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "uh",
+            "start_time": 98.32,
+            "end_time": 98.44,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "just",
+            "start_time": 99.28,
+            "end_time": 99.44,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "for",
+            "start_time": 99.52,
+            "end_time": 99.56,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "clarity",
+            "start_time": 100.08,
+            "end_time": 100.52,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "on",
+            "start_time": 100.56,
+            "end_time": 100.6,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "my",
+            "start_time": 100.76,
+            "end_time": 100.84,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "end",
+            "start_time": 100.96,
+            "end_time": 101.04,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "ma'am",
+            "start_time": 101.08,
+            "end_time": 101.28,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "am",
+            "start_time": 101.44,
+            "end_time": 101.6,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "is",
+            "start_time": 102.16,
+            "end_time": 102.2,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "this",
+            "start_time": 102.28,
+            "end_time": 102.32,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "the",
+            "start_time": 102.52,
+            "end_time": 102.56,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "first",
+            "start_time": 102.64,
+            "end_time": 102.84,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "call",
+            "start_time": 102.92,
+            "end_time": 103.12,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "you've",
+            "start_time": 103.2,
+            "end_time": 103.4,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "made",
+            "start_time": 103.44,
+            "end_time": 103.64,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "regarding",
+            "start_time": 103.68,
+            "end_time": 104.08,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "this",
+            "start_time": 104.16,
+            "end_time": 104.2,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "yes",
+            "start_time": 105.96,
+            "end_time": 106.16,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "okay",
+            "start_time": 107.16,
+            "end_time": 107.44,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "and",
+            "start_time": 113.36,
+            "end_time": 113.4,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "h",
+            "start_time": 113.88,
+            "end_time": 113.92,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "uh",
+            "start_time": 114.28,
+            "end_time": 114.4,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "this",
+            "start_time": 114.48,
+            "end_time": 114.52,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "might",
+            "start_time": 114.68,
+            "end_time": 114.8,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "be",
+            "start_time": 114.84,
+            "end_time": 114.88,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "kind",
+            "start_time": 114.96,
+            "end_time": 115.12,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "of",
+            "start_time": 115.12,
+            "end_time": 115.16,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "a",
+            "start_time": 115.2,
+            "end_time": 115.24,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "silly",
+            "start_time": 115.28,
+            "end_time": 115.52,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "question",
+            "start_time": 115.56,
+            "end_time": 115.8,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "'cause",
+            "start_time": 115.84,
+            "end_time": 116.04,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "i",
+            "start_time": 116.04,
+            "end_time": 116.08,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "you",
+            "start_time": 116.32,
+            "end_time": 116.36,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "just",
+            "start_time": 116.52,
+            "end_time": 116.64,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "got",
+            "start_time": 116.68,
+            "end_time": 116.84,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "the",
+            "start_time": 116.88,
+            "end_time": 116.92,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "car",
+            "start_time": 116.96,
+            "end_time": 117.08,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "but",
+            "start_time": 117.24,
+            "end_time": 117.28,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "sometimes",
+            "start_time": 118.0,
+            "end_time": 118.4,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "they",
+            "start_time": 118.44,
+            "end_time": 118.6,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "make",
+            "start_time": 118.8,
+            "end_time": 118.96,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "me",
+            "start_time": 119.0,
+            "end_time": 119.04,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "ask",
+            "start_time": 119.12,
+            "end_time": 119.28,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "silly",
+            "start_time": 119.4,
+            "end_time": 119.68,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "questions",
+            "start_time": 119.8,
+            "end_time": 120.12,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "about",
+            "start_time": 120.64,
+            "end_time": 120.92,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "how",
+            "start_time": 121.0,
+            "end_time": 121.12,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "many",
+            "start_time": 121.16,
+            "end_time": 121.36,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "miles",
+            "start_time": 121.52,
+            "end_time": 121.8,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "has",
+            "start_time": 121.88,
+            "end_time": 122.0,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "the",
+            "start_time": 122.08,
+            "end_time": 122.12,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "car",
+            "start_time": 122.16,
+            "end_time": 122.28,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "been",
+            "start_time": 122.36,
+            "end_time": 122.52,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "driven",
+            "start_time": 122.6,
+            "end_time": 122.84,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "since",
+            "start_time": 122.92,
+            "end_time": 123.12,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "you",
+            "start_time": 123.16,
+            "end_time": 123.2,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "bought",
+            "start_time": 123.28,
+            "end_time": 123.56,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "it",
+            "start_time": 123.56,
+            "end_time": 123.6,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "oh",
+            "start_time": 125.6,
+            "end_time": 125.84,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "i'm",
+            "start_time": 128.28,
+            "end_time": 128.48,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "not",
+            "start_time": 128.52,
+            "end_time": 128.56,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "sure",
+            "start_time": 128.72,
+            "end_time": 129.0,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "should",
+            "start_time": 129.64,
+            "end_time": 129.92,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "i",
+            "start_time": 130.0,
+            "end_time": 130.04,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "check",
+            "start_time": 130.2,
+            "end_time": 130.4,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "ah",
+            "start_time": 131.24,
+            "end_time": 131.48,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "no",
+            "start_time": 131.72,
+            "end_time": 131.84,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "that's",
+            "start_time": 132.04,
+            "end_time": 132.2,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "okay",
+            "start_time": 132.28,
+            "end_time": 132.56,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "i'll",
+            "start_time": 132.8,
+            "end_time": 133.0,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "just",
+            "start_time": 133.16,
+            "end_time": 133.32,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "i'll",
+            "start_time": 133.68,
+            "end_time": 133.84,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "just",
+            "start_time": 133.92,
+            "end_time": 134.04,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "put",
+            "start_time": 134.08,
+            "end_time": 134.24,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "in",
+            "start_time": 134.32,
+            "end_time": 134.36,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "that",
+            "start_time": 134.48,
+            "end_time": 134.52,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "we",
+            "start_time": 134.6,
+            "end_time": 134.64,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "don't",
+            "start_time": 134.68,
+            "end_time": 134.84,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "know",
+            "start_time": 134.88,
+            "end_time": 134.92,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "at",
+            "start_time": 135.04,
+            "end_time": 135.16,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "this",
+            "start_time": 135.2,
+            "end_time": 135.24,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "time",
+            "start_time": 135.36,
+            "end_time": 135.56,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "it's",
+            "start_time": 135.8,
+            "end_time": 136.0,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "okay",
+            "start_time": 136.08,
+            "end_time": 136.36,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "um",
+            "start_time": 137.12,
+            "end_time": 137.24,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "okay",
+            "start_time": 137.56,
+            "end_time": 137.92,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "so",
+            "start_time": 138.56,
+            "end_time": 138.6,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "um",
+            "start_time": 139.52,
+            "end_time": 139.64,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "under",
+            "start_time": 149.08,
+            "end_time": 149.24,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "the",
+            "start_time": 149.32,
+            "end_time": 149.36,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "warranty",
+            "start_time": 149.44,
+            "end_time": 149.96,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "we",
+            "start_time": 150.12,
+            "end_time": 150.16,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "offer",
+            "start_time": 150.56,
+            "end_time": 150.88,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "um",
+            "start_time": 151.48,
+            "end_time": 151.6,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "we",
+            "start_time": 152.76,
+            "end_time": 152.8,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "the",
+            "start_time": 153.24,
+            "end_time": 153.28,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "we",
+            "start_time": 154.56,
+            "end_time": 154.6,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "don't",
+            "start_time": 154.72,
+            "end_time": 154.92,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "handle",
+            "start_time": 155.04,
+            "end_time": 155.32,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "in",
+            "start_time": 155.44,
+            "end_time": 155.48,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "house",
+            "start_time": 155.64,
+            "end_time": 155.92,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "oil",
+            "start_time": 156.08,
+            "end_time": 156.36,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "changes",
+            "start_time": 156.52,
+            "end_time": 156.92,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "um",
+            "start_time": 157.72,
+            "end_time": 157.84,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "we",
+            "start_time": 158.76,
+            "end_time": 158.8,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "basically",
+            "start_time": 159.48,
+            "end_time": 159.96,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "when",
+            "start_time": 160.04,
+            "end_time": 160.16,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "when",
+            "start_time": 160.32,
+            "end_time": 160.44,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "someone",
+            "start_time": 160.56,
+            "end_time": 160.8,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "buys",
+            "start_time": 160.84,
+            "end_time": 161.08,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "a",
+            "start_time": 161.12,
+            "end_time": 161.16,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "car",
+            "start_time": 161.16,
+            "end_time": 161.28,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "from",
+            "start_time": 161.36,
+            "end_time": 161.48,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "us",
+            "start_time": 161.6,
+            "end_time": 161.64,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "the",
+            "start_time": 161.72,
+            "end_time": 161.76,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "warranty",
+            "start_time": 161.76,
+            "end_time": 162.2,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "we",
+            "start_time": 162.28,
+            "end_time": 162.32,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "have",
+            "start_time": 162.4,
+            "end_time": 162.44,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "it",
+            "start_time": 162.56,
+            "end_time": 162.6,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "it",
+            "start_time": 162.76,
+            "end_time": 162.8,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "covers",
+            "start_time": 162.96,
+            "end_time": 163.32,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "some",
+            "start_time": 163.4,
+            "end_time": 163.44,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "stuff",
+            "start_time": 163.6,
+            "end_time": 163.88,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "like",
+            "start_time": 164.0,
+            "end_time": 164.04,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "weather",
+            "start_time": 165.92,
+            "end_time": 166.28,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "damage",
+            "start_time": 166.48,
+            "end_time": 166.92,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "and",
+            "start_time": 168.84,
+            "end_time": 168.88,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "h",
+            "start_time": 169.8,
+            "end_time": 169.84,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "if",
+            "start_time": 170.6,
+            "end_time": 170.76,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "the",
+            "start_time": 170.96,
+            "end_time": 171.0,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "engine",
+            "start_time": 171.48,
+            "end_time": 171.76,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "light",
+            "start_time": 171.88,
+            "end_time": 172.0,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "comes",
+            "start_time": 172.12,
+            "end_time": 172.28,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "on",
+            "start_time": 172.28,
+            "end_time": 172.32,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "we",
+            "start_time": 172.48,
+            "end_time": 172.52,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "take",
+            "start_time": 172.6,
+            "end_time": 172.8,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "a",
+            "start_time": 172.8,
+            "end_time": 172.84,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "look",
+            "start_time": 172.92,
+            "end_time": 173.12,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "at",
+            "start_time": 173.16,
+            "end_time": 173.24,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "that",
+            "start_time": 173.28,
+            "end_time": 173.32,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "but",
+            "start_time": 173.44,
+            "end_time": 173.48,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "the",
+            "start_time": 173.56,
+            "end_time": 173.6,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "oil",
+            "start_time": 173.68,
+            "end_time": 173.96,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "change",
+            "start_time": 174.08,
+            "end_time": 174.36,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "is",
+            "start_time": 174.4,
+            "end_time": 174.44,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "something",
+            "start_time": 174.56,
+            "end_time": 174.8,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "that",
+            "start_time": 174.84,
+            "end_time": 174.88,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "we",
+            "start_time": 174.96,
+            "end_time": 175.0,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "just",
+            "start_time": 175.2,
+            "end_time": 175.36,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "don't",
+            "start_time": 175.44,
+            "end_time": 175.68,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "have",
+            "start_time": 176.96,
+            "end_time": 177.0,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "ah",
+            "start_time": 177.68,
+            "end_time": 177.92,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "here",
+            "start_time": 178.16,
+            "end_time": 178.28,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "at",
+            "start_time": 178.36,
+            "end_time": 178.52,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "the",
+            "start_time": 178.56,
+            "end_time": 178.6,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "dealership",
+            "start_time": 178.64,
+            "end_time": 179.28,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "that's",
+            "start_time": 179.84,
+            "end_time": 180.08,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "a",
+            "start_time": 180.12,
+            "end_time": 180.16,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "little",
+            "start_time": 180.24,
+            "end_time": 180.44,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "bit",
+            "start_time": 180.44,
+            "end_time": 180.56,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "outsourced",
+            "start_time": 180.6,
+            "end_time": 181.08,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "out",
+            "start_time": 181.12,
+            "end_time": 181.32,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "and",
+            "start_time": 181.36,
+            "end_time": 181.4,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "they're",
+            "start_time": 181.44,
+            "end_time": 181.64,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "pretty",
+            "start_time": 181.72,
+            "end_time": 182.08,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "backed",
+            "start_time": 182.4,
+            "end_time": 182.76,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "up",
+            "start_time": 182.84,
+            "end_time": 182.92,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "right",
+            "start_time": 183.0,
+            "end_time": 183.08,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "now",
+            "start_time": 183.12,
+            "end_time": 183.24,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "because",
+            "start_time": 183.32,
+            "end_time": 183.56,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "a",
+            "start_time": 183.6,
+            "end_time": 183.64,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "lot",
+            "start_time": 183.72,
+            "end_time": 183.88,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "of",
+            "start_time": 183.92,
+            "end_time": 183.96,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "people",
+            "start_time": 184.0,
+            "end_time": 184.24,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "have",
+            "start_time": 184.28,
+            "end_time": 184.32,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "been",
+            "start_time": 184.48,
+            "end_time": 184.64,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "staying",
+            "start_time": 185.76,
+            "end_time": 186.16,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "in",
+            "start_time": 186.2,
+            "end_time": 186.24,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "due",
+            "start_time": 186.48,
+            "end_time": 186.64,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "to",
+            "start_time": 186.68,
+            "end_time": 186.72,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "the",
+            "start_time": 186.76,
+            "end_time": 186.8,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "recent",
+            "start_time": 186.84,
+            "end_time": 187.08,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "pandemic",
+            "start_time": 187.2,
+            "end_time": 187.68,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "and",
+            "start_time": 187.72,
+            "end_time": 187.76,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "now",
+            "start_time": 187.8,
+            "end_time": 187.96,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "everyone's",
+            "start_time": 188.0,
+            "end_time": 188.44,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "just",
+            "start_time": 188.52,
+            "end_time": 188.64,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "starting",
+            "start_time": 188.68,
+            "end_time": 188.92,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "to",
+            "start_time": 188.92,
+            "end_time": 188.96,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "get",
+            "start_time": 189.0,
+            "end_time": 189.12,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "out",
+            "start_time": 189.16,
+            "end_time": 189.28,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "and",
+            "start_time": 189.32,
+            "end_time": 189.36,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "a",
+            "start_time": 189.48,
+            "end_time": 189.52,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "whole",
+            "start_time": 189.56,
+            "end_time": 189.76,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "bunch",
+            "start_time": 189.84,
+            "end_time": 190.04,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "of",
+            "start_time": 190.08,
+            "end_time": 190.12,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "places",
+            "start_time": 190.2,
+            "end_time": 190.48,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "are",
+            "start_time": 190.52,
+            "end_time": 190.68,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "just",
+            "start_time": 190.72,
+            "end_time": 190.88,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "completely",
+            "start_time": 190.92,
+            "end_time": 191.36,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "bogged",
+            "start_time": 191.44,
+            "end_time": 191.88,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "down",
+            "start_time": 191.96,
+            "end_time": 192.16,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "so",
+            "start_time": 192.48,
+            "end_time": 192.52,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "we",
+            "start_time": 192.64,
+            "end_time": 192.68,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "have",
+            "start_time": 192.76,
+            "end_time": 192.8,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "a",
+            "start_time": 192.88,
+            "end_time": 192.92,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "place",
+            "start_time": 193.0,
+            "end_time": 193.16,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "that",
+            "start_time": 193.24,
+            "end_time": 193.28,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "we",
+            "start_time": 193.36,
+            "end_time": 193.4,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "typically",
+            "start_time": 193.52,
+            "end_time": 193.92,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "outsourc",
+            "start_time": 194.04,
+            "end_time": 194.56,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "to",
+            "start_time": 194.72,
+            "end_time": 194.76,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "and",
+            "start_time": 197.2,
+            "end_time": 197.24,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "they're",
+            "start_time": 197.48,
+            "end_time": 197.72,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "they're",
+            "start_time": 197.88,
+            "end_time": 198.08,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "pretty",
+            "start_time": 198.28,
+            "end_time": 198.56,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "reasonable",
+            "start_time": 198.6,
+            "end_time": 199.08,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "they're",
+            "start_time": 199.16,
+            "end_time": 199.36,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "about",
+            "start_time": 199.44,
+            "end_time": 199.68,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "i",
+            "start_time": 200.36,
+            "end_time": 200.4,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "want",
+            "start_time": 200.52,
+            "end_time": 200.72,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "to",
+            "start_time": 200.76,
+            "end_time": 200.8,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "say",
+            "start_time": 200.84,
+            "end_time": 201.04,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "somewhere",
+            "start_time": 201.8,
+            "end_time": 202.16,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "between",
+            "start_time": 202.28,
+            "end_time": 202.6,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "twenty",
+            "start_time": 203.4,
+            "end_time": 203.72,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "five",
+            "start_time": 203.76,
+            "end_time": 203.88,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "and",
+            "start_time": 204.12,
+            "end_time": 204.16,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "thirty",
+            "start_time": 204.2,
+            "end_time": 204.44,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "five",
+            "start_time": 204.44,
+            "end_time": 204.6,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "dollars",
+            "start_time": 204.72,
+            "end_time": 204.96,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "to",
+            "start_time": 205.0,
+            "end_time": 205.04,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "do",
+            "start_time": 205.08,
+            "end_time": 205.12,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "an",
+            "start_time": 205.28,
+            "end_time": 205.32,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "oil",
+            "start_time": 205.32,
+            "end_time": 205.6,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "change",
+            "start_time": 205.72,
+            "end_time": 205.92,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "so",
+            "start_time": 205.92,
+            "end_time": 205.96,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "it's",
+            "start_time": 206.04,
+            "end_time": 206.16,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "really",
+            "start_time": 206.2,
+            "end_time": 206.36,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "not",
+            "start_time": 206.4,
+            "end_time": 206.44,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "that",
+            "start_time": 206.56,
+            "end_time": 206.6,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "bad",
+            "start_time": 206.76,
+            "end_time": 206.96,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "but",
+            "start_time": 207.52,
+            "end_time": 207.56,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "they're",
+            "start_time": 207.68,
+            "end_time": 207.88,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "a",
+            "start_time": 207.96,
+            "end_time": 208.0,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "little",
+            "start_time": 208.04,
+            "end_time": 208.28,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "bit",
+            "start_time": 208.28,
+            "end_time": 208.4,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "backed",
+            "start_time": 208.48,
+            "end_time": 208.76,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "up",
+            "start_time": 208.84,
+            "end_time": 208.92,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "right",
+            "start_time": 209.04,
+            "end_time": 209.16,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "now",
+            "start_time": 209.16,
+            "end_time": 209.32,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "from",
+            "start_time": 209.4,
+            "end_time": 209.56,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "what",
+            "start_time": 209.6,
+            "end_time": 209.64,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "i've",
+            "start_time": 209.76,
+            "end_time": 209.92,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "heard",
+            "start_time": 209.96,
+            "end_time": 210.12,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "i",
+            "start_time": 210.28,
+            "end_time": 210.32,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "would",
+            "start_time": 210.36,
+            "end_time": 210.4,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "recommend",
+            "start_time": 210.56,
+            "end_time": 210.92,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "giving",
+            "start_time": 211.0,
+            "end_time": 211.24,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "them",
+            "start_time": 211.24,
+            "end_time": 211.4,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "a",
+            "start_time": 211.4,
+            "end_time": 211.44,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "call",
+            "start_time": 211.48,
+            "end_time": 211.64,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "as",
+            "start_time": 211.72,
+            "end_time": 211.84,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "soon",
+            "start_time": 211.88,
+            "end_time": 212.04,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "as",
+            "start_time": 212.12,
+            "end_time": 212.2,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "you",
+            "start_time": 212.28,
+            "end_time": 212.32,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "can",
+            "start_time": 212.4,
+            "end_time": 212.52,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "before",
+            "start_time": 212.64,
+            "end_time": 212.88,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "they",
+            "start_time": 212.96,
+            "end_time": 213.08,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "close",
+            "start_time": 213.2,
+            "end_time": 213.48,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "ok",
+            "start_time": 215.56,
+            "end_time": 215.72,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "what",
+            "start_time": 216.56,
+            "end_time": 216.6,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "is",
+            "start_time": 216.84,
+            "end_time": 216.88,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "their",
+            "start_time": 216.92,
+            "end_time": 217.08,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "number",
+            "start_time": 217.16,
+            "end_time": 217.44,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "give",
+            "start_time": 219.2,
+            "end_time": 219.36,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "me",
+            "start_time": 219.48,
+            "end_time": 219.52,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "a",
+            "start_time": 219.56,
+            "end_time": 219.6,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "and",
+            "start_time": 220.48,
+            "end_time": 220.52,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "let",
+            "start_time": 220.72,
+            "end_time": 220.84,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "me",
+            "start_time": 220.88,
+            "end_time": 220.92,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "just",
+            "start_time": 221.04,
+            "end_time": 221.2,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "rustle",
+            "start_time": 222.68,
+            "end_time": 223.0,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "through",
+            "start_time": 223.04,
+            "end_time": 223.24,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "the",
+            "start_time": 223.28,
+            "end_time": 223.32,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "desk",
+            "start_time": 223.36,
+            "end_time": 223.56,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "here",
+            "start_time": 223.64,
+            "end_time": 223.76,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "see",
+            "start_time": 223.84,
+            "end_time": 224.04,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "if",
+            "start_time": 224.08,
+            "end_time": 224.2,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "i",
+            "start_time": 224.24,
+            "end_time": 224.28,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "can",
+            "start_time": 224.32,
+            "end_time": 224.44,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "find",
+            "start_time": 224.64,
+            "end_time": 224.88,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "their",
+            "start_time": 226.0,
+            "end_time": 226.2,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "uh",
+            "start_time": 226.36,
+            "end_time": 226.48,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "information",
+            "start_time": 226.84,
+            "end_time": 227.44,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "uh",
+            "start_time": 228.6,
+            "end_time": 228.76,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "okay",
+            "start_time": 229.52,
+            "end_time": 229.92,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "okay",
+            "start_time": 230.92,
+            "end_time": 231.16,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "yes",
+            "start_time": 231.28,
+            "end_time": 231.44,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "all",
+            "start_time": 231.72,
+            "end_time": 231.8,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "right",
+            "start_time": 231.88,
+            "end_time": 231.96,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "with",
+            "start_time": 232.04,
+            "end_time": 232.08,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "them",
+            "start_time": 232.2,
+            "end_time": 232.36,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "one",
+            "start_time": 234.12,
+            "end_time": 234.28,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "moment",
+            "start_time": 234.4,
+            "end_time": 234.64,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "please",
+            "start_time": 234.84,
+            "end_time": 235.08,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "sure",
+            "start_time": 236.0,
+            "end_time": 236.32,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "okay",
+            "start_time": 240.88,
+            "end_time": 241.16,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "all",
+            "start_time": 242.72,
+            "end_time": 242.88,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "right",
+            "start_time": 243.0,
+            "end_time": 243.12,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "their",
+            "start_time": 243.28,
+            "end_time": 243.48,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "number",
+            "start_time": 243.6,
+            "end_time": 243.88,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "is",
+            "start_time": 244.32,
+            "end_time": 244.36,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "eight",
+            "start_time": 245.0,
+            "end_time": 245.16,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "eight",
+            "start_time": 245.52,
+            "end_time": 245.68,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "three",
+            "start_time": 247.72,
+            "end_time": 247.92,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "three",
+            "start_time": 248.12,
+            "end_time": 248.32,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "three",
+            "start_time": 248.4,
+            "end_time": 248.6,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "two",
+            "start_time": 250.76,
+            "end_time": 250.96,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "two",
+            "start_time": 251.08,
+            "end_time": 251.24,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "two",
+            "start_time": 251.44,
+            "end_time": 251.6,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "two",
+            "start_time": 251.68,
+            "end_time": 251.84,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "ok",
+            "start_time": 255.68,
+            "end_time": 255.84,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "and",
+            "start_time": 256.4,
+            "end_time": 256.44,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "they",
+            "start_time": 256.84,
+            "end_time": 256.96,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "can",
+            "start_time": 257.0,
+            "end_time": 257.12,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "fix",
+            "start_time": 257.24,
+            "end_time": 257.44,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "my",
+            "start_time": 257.64,
+            "end_time": 257.72,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "car",
+            "start_time": 257.76,
+            "end_time": 257.92,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "yah",
+            "start_time": 258.96,
+            "end_time": 259.16,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "they",
+            "start_time": 259.24,
+            "end_time": 259.36,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "should",
+            "start_time": 259.4,
+            "end_time": 259.68,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "be",
+            "start_time": 259.68,
+            "end_time": 259.72,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "able",
+            "start_time": 259.76,
+            "end_time": 259.96,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "to",
+            "start_time": 259.96,
+            "end_time": 260.0,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "handle",
+            "start_time": 260.04,
+            "end_time": 260.28,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "the",
+            "start_time": 260.32,
+            "end_time": 260.36,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "oil",
+            "start_time": 260.4,
+            "end_time": 260.6,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "change",
+            "start_time": 260.72,
+            "end_time": 260.92,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "i'm",
+            "start_time": 260.96,
+            "end_time": 261.08,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "sorry",
+            "start_time": 261.12,
+            "end_time": 261.32,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "that's",
+            "start_time": 261.4,
+            "end_time": 261.56,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "not",
+            "start_time": 261.6,
+            "end_time": 261.64,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "something",
+            "start_time": 261.76,
+            "end_time": 262.0,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "that",
+            "start_time": 262.16,
+            "end_time": 262.2,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "we",
+            "start_time": 262.28,
+            "end_time": 262.32,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "cover",
+            "start_time": 262.48,
+            "end_time": 262.68,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "under",
+            "start_time": 262.88,
+            "end_time": 263.04,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "the",
+            "start_time": 263.28,
+            "end_time": 263.32,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "warranty",
+            "start_time": 263.56,
+            "end_time": 264.0,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "that",
+            "start_time": 264.12,
+            "end_time": 264.16,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "uh",
+            "start_time": 264.64,
+            "end_time": 264.76,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "we",
+            "start_time": 265.0,
+            "end_time": 265.04,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "have",
+            "start_time": 265.2,
+            "end_time": 265.24,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "um",
+            "start_time": 265.8,
+            "end_time": 265.88,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "but",
+            "start_time": 266.28,
+            "end_time": 266.32,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "they",
+            "start_time": 266.48,
+            "end_time": 266.56,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "should",
+            "start_time": 266.6,
+            "end_time": 266.84,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "be",
+            "start_time": 266.88,
+            "end_time": 266.92,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "able",
+            "start_time": 267.0,
+            "end_time": 267.16,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "to",
+            "start_time": 267.2,
+            "end_time": 267.24,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "get",
+            "start_time": 267.28,
+            "end_time": 267.4,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "you",
+            "start_time": 267.44,
+            "end_time": 267.48,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "settled",
+            "start_time": 267.6,
+            "end_time": 267.92,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "and",
+            "start_time": 267.96,
+            "end_time": 268.0,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "uh",
+            "start_time": 268.16,
+            "end_time": 268.24,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "sorted",
+            "start_time": 268.36,
+            "end_time": 268.8,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "okay",
+            "start_time": 268.88,
+            "end_time": 269.12,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "ok",
+            "start_time": 270.2,
+            "end_time": 270.36,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "thank",
+            "start_time": 271.16,
+            "end_time": 271.4,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "you",
+            "start_time": 271.48,
+            "end_time": 271.52,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "no",
+            "start_time": 272.56,
+            "end_time": 272.68,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "problem",
+            "start_time": 272.76,
+            "end_time": 273.0,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "have",
+            "start_time": 273.12,
+            "end_time": 273.16,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "a",
+            "start_time": 273.28,
+            "end_time": 273.32,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "good",
+            "start_time": 273.36,
+            "end_time": 273.56,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "one",
+            "start_time": 273.6,
+            "end_time": 273.76,
+            "speaker": "speaker_0"
+        },
+        {
+            "word": "thank",
+            "start_time": 274.92,
+            "end_time": 275.12,
+            "speaker": "speaker_1"
+        },
+        {
+            "word": "youy",
+            "start_time": 275.2,
+            "end_time": 275.76,
+            "speaker": "speaker_1"
+        }
+    ],
+    "sentences": [
+        {
+            "speaker": "speaker_0",
+            "start_time": "0.99",
+            "end_time": 5.12,
+            "text": "thank you for calling big jims auto this is travis how can i help you today"
+        },
+        {
+            "speaker": "speaker_1",
+            "start_time": 6.2,
+            "end_time": 16.64,
+            "text": "hello my name is violet king and i bought a car not too long ago and a light is coming on um a light on the dashboard and so i was wondering what i should do about that"
+        },
+        {
+            "speaker": "speaker_0",
+            "start_time": 17.8,
+            "end_time": 25.0,
+            "text": "ok it may depend on what kind of light we're looking at here today ma'am could i get your first and lesson spell out for me so i can just get some information pulled up"
+        },
+        {
+            "speaker": "speaker_1",
+            "start_time": 26.24,
+            "end_time": 34.08,
+            "text": "yes my name is violet the i o l e t my last name is king k i n g"
+        },
+        {
+            "speaker": "speaker_0",
+            "start_time": 37.44,
+            "end_time": 37.6,
+            "text": "all"
+        },
+        {
+            "speaker": "speaker_1",
+            "start_time": 37.84,
+            "end_time": 38.32,
+            "text": "about the car"
+        },
+        {
+            "speaker": "speaker_0",
+            "start_time": 39.92,
+            "end_time": 43.24,
+            "text": "ok and what kind of car are we examining today"
+        },
+        {
+            "speaker": "speaker_1",
+            "start_time": 44.88,
+            "end_time": 50.32,
+            "text": "it's it's a for fusion it's two thousand and seventeen"
+        },
+        {
+            "speaker": "speaker_0",
+            "start_time": 51.84,
+            "end_time": 60.64,
+            "text": "seventeen for ok and for verification ma'am do you happen to know the purchase date of the car"
+        },
+        {
+            "speaker": "speaker_1",
+            "start_time": 62.36,
+            "end_time": 66.96,
+            "text": "yes it was last tuesday august tenth"
+        },
+        {
+            "speaker": "speaker_0",
+            "start_time": 67.72,
+            "end_time": 76.04,
+            "text": "tuesday the tenh okay and can you describe to me what kind of light we're looking at"
+        },
+        {
+            "speaker": "speaker_1",
+            "start_time": 78.0,
+            "end_time": 85.8,
+            "text": "y yes it's uh i i think it's a an oil and oil light"
+        },
+        {
+            "speaker": "speaker_0",
+            "start_time": 87.08,
+            "end_time": 104.2,
+            "text": "and oil light ok okay and uh just for clarity on my end ma'am am is this the first call you've made regarding this"
+        },
+        {
+            "speaker": "speaker_1",
+            "start_time": 105.96,
+            "end_time": 106.16,
+            "text": "yes"
+        },
+        {
+            "speaker": "speaker_0",
+            "start_time": 107.16,
+            "end_time": 123.6,
+            "text": "okay and h uh this might be kind of a silly question 'cause i you just got the car but sometimes they make me ask silly questions about how many miles has the car been driven since you bought it"
+        },
+        {
+            "speaker": "speaker_1",
+            "start_time": 125.6,
+            "end_time": 130.4,
+            "text": "oh i'm not sure should i check"
+        },
+        {
+            "speaker": "speaker_0",
+            "start_time": 131.24,
+            "end_time": 213.48,
+            "text": "ah no that's okay i'll just i'll just put in that we don't know at this time it's okay um okay so um under the warranty we offer um we the we don't handle in house oil changes um we basically when when someone buys a car from us the warranty we have it it covers some stuff like weather damage and h if the engine light comes on we take a look at that but the oil change is something that we just don't have ah here at the dealership that's a little bit outsourced out and they're pretty backed up right now because a lot of people have been staying in due to the recent pandemic and now everyone's just starting to get out and a whole bunch of places are just completely bogged down so we have a place that we typically outsourc to and they're they're pretty reasonable they're about i want to say somewhere between twenty five and thirty five dollars to do an oil change so it's really not that bad but they're a little bit backed up right now from what i've heard i would recommend giving them a call as soon as you can before they close"
+        },
+        {
+            "speaker": "speaker_1",
+            "start_time": 215.56,
+            "end_time": 217.44,
+            "text": "ok what is their number"
+        },
+        {
+            "speaker": "speaker_0",
+            "start_time": 219.2,
+            "end_time": 232.36,
+            "text": "give me a and let me just rustle through the desk here see if i can find their uh information uh okay okay yes all right with them"
+        },
+        {
+            "speaker": "speaker_1",
+            "start_time": 234.12,
+            "end_time": 241.16,
+            "text": "one moment please sure okay"
+        },
+        {
+            "speaker": "speaker_0",
+            "start_time": 242.72,
+            "end_time": 251.84,
+            "text": "all right their number is eight eight three three three two two two two"
+        },
+        {
+            "speaker": "speaker_1",
+            "start_time": 255.68,
+            "end_time": 257.92,
+            "text": "ok and they can fix my car"
+        },
+        {
+            "speaker": "speaker_0",
+            "start_time": 258.96,
+            "end_time": 269.12,
+            "text": "yah they should be able to handle the oil change i'm sorry that's not something that we cover under the warranty that uh we have um but they should be able to get you settled and uh sorted okay"
+        },
+        {
+            "speaker": "speaker_1",
+            "start_time": 270.2,
+            "end_time": 271.52,
+            "text": "ok thank you"
+        },
+        {
+            "speaker": "speaker_0",
+            "start_time": 272.56,
+            "end_time": 273.76,
+            "text": "no problem have a good one"
+        },
+        {
+            "speaker": "speaker_1",
+            "start_time": 274.92,
+            "end_time": 275.76,
+            "text": "thank youy"
+        }
+    ]
+}
